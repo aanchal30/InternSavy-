@@ -26,4 +26,4 @@ Task Given By InternSavy
 
 ### Task 4 :Cricket Player Performance Prediction using machine learning
 
-**Data set [link](https://www.kaggle.com/datasets/saivamshi/cricket-world-cup-2019-players-data/code)https://www.kaggle.com/datasets/saivamshi/cricket-world-cup-2019-players-data/code)**
+**Data set [link](https://www.kaggle.com/datasets/saivamshi/cricket-world-cup-2019-players-data/code)**
